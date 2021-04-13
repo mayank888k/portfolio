@@ -353,6 +353,7 @@ body:not(.user-is-tabbing) a:focus {
 @media(max-width: 500px) {
     .nav {
         justify-content: center;
+        flex-direction: column;
     }
 }
 
